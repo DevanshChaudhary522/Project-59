@@ -1,0 +1,28 @@
+img {
+  height:200px;
+  width:200px;
+  border-radius:100px;
+}
+body {
+  text-align:center;
+  background:linear-gradient(#70d4ff 0%,#707aff 100%);
+}
+h2 {
+  color:blanchedalmond;
+}
+.hobbie {
+    list-style: none;
+    position: absolute;
+    z-index: 10;
+    right: 40px;
+}
+
+.home {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    background:linear-gradient(#707aff 0%,#70d4ff 100%); 
+}
